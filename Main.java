@@ -9,7 +9,7 @@ public class Main {
 
     public static void main(String[] args) {
         Scanner scnr = new Scanner(System.in);
-
+        System.out.println("Hello, Welcome to the virus contagion simulator");
         // options for what to do when run
         System.out.println("Enter command or enter nothing to start");
 
